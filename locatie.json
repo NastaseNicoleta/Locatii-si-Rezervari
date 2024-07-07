@@ -1,0 +1,1 @@
+{"1": {"py/object": "Domain.locatie.Locatie", "id_entity": "1", "nume": "kfc", "categorie": "mancare", "tarif": 200.0, "capacitate": 30}, "2": {"py/object": "Domain.locatie.Locatie", "id_entity": "2", "nume": "mc", "categorie": "mancare", "tarif": 800.0, "capacitate": 99}}
